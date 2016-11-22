@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeMenuView">
+        <attr name="swipe_enable" format="boolean"/>
+        <attr name="anti_rent_plug" format="boolean"/>
+        <attr name="left_swipe" format="boolean"/>
+    </declare-styleable>
+</resources>
