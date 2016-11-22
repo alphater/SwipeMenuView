@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SwipeMenu</string>
+    <string name="action_about">About</string>
+    <string name="item_txt">五星级开放厨房里的西班牙风情 JW 万豪酒店 Loong Bar 西班牙小吃套餐</string>
+
+    <string-array name="pics">
+        <item>https://image.ricebook.com/business/19054046513610?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054029523661?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054029313118?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054059213611?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054029523535?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054072823872?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054265923547?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054029313117?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054225623898?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061181523958?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061183313041?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061184113818?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061185013990?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061186323959?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19061187823146?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054375723571?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054376213512?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054376913702?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+        <item>https://image.ricebook.com/business/19054378313187?imageView2/1/w/600/h/400/interlace/1/format/jpeg/interlace/1</item>
+    </string-array>
+
+    <string-array name="txts">
+        <item>五星级开放厨房里的西班牙风情 JW 万豪酒店 Loong Bar 西班牙小吃套餐</item>
+        <item>在轻松舒适的 Loong Bar 一享夜晚小憩时光</item>
+        <item>西班牙小吃配鸡尾酒 冷热搭配打造异国风情</item>
+        <item>青花瓷融入设计 传统与时尚交融的中餐厅</item>
+        <item>烤火鸡与丰盛菜品共聚一桌 大家齐分享</item>
+        <item>限时发售的节日套餐 ENJOY 独享68折</item>
+        <item>六人齐分享的感恩节火鸡大餐 北京长安街W酒店艳餐厅感恩节火鸡套餐</item>
+        <item>精益求精的职人精神 为季节量身定制的高档会席</item>
+        <item>日籍美食家力推的京城日料</item>
+        <item>每日精选珍品食材打造的手握寿司九贯 带来唇齿间的曼妙体验</item>
+        <item>老胡同里的别有洞天 资深主厨呈上新派关西味</item>
+        <item>日籍美食家力推的京城日料</item>
+        <item>多道扶桑料理可享的单人定食 ENJOY 独享64折</item>
+        <item>烤火鸡与丰盛菜品共聚一桌 大家齐分享</item>
+        <item>西班牙小吃配鸡尾酒 冷热搭配打造异国风情</item>
+        <item>曾任职大使馆多年的主厨掌勺 通盈中心里的地道韩餐</item>
+        <item>鱿鱼烤肉搭配美味酱汤 更有香辣芝士年糕火锅温暖夜晚</item>
+        <item>两款套餐+开胃小吃 ENJOY 独享8折</item>
+        <item>西班牙小吃配鸡尾酒 冷热搭配打造异国风情</item>
+    </string-array>
+</resources>

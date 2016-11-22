@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app palette -->
+    <color name="primary">#F32360</color>
+    <color name="accent">@color/primary</color> <!-- mono-color -->
+    <color name="primary_dark">#20000000</color>
+    <color name="primary_super_dark">#61000000</color> <!-- same hue & sat, 15% brightness -->
+</resources>
